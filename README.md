@@ -1,16 +1,9 @@
-# view_webpage
+# View Webpage
 
-A new Flutter project.
+showing a constant URL in the app in Flutter which is my website: www.ichbinmerih.com
 
-## Getting Started
+## screenshot
+![view_web](https://github.com/merihcavdar/view_webpage/assets/84540989/7194155d-4f3c-4157-a3f4-411b8877bbc0)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- 3rd party package usage for loading and enabling the back button called "webview_flutter"
